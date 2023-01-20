@@ -139,7 +139,7 @@ params:
   about:
     enable: true
     title: "Tentang saya"
-    image: "/images/tn.png"
+    # image: "/images/about.png"
     content: |-
       Lahir di Nganjuk, 30 Agustus 2001. Saya adalah orang yang sangat antusias dengan Pemrograman Web. Saya pun dikenal sebagai Pendengar yang baik sehingga mampu menangkap inti persoalan dan memberikan solusi yang tepat. Saya selalu merasa tertantang untuk mengerjakan projek-projek Aplikasi berbasis Web. 
     skills:
