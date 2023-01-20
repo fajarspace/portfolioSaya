@@ -132,7 +132,7 @@ params:
         - icon: fab fa-twitter
           url: https://twitter.com/fajaragngn
       customIcons:
-        - icon: /fav.png
+        - icon: /images/icon.ico
           url: "https://fajarspace.netlify.app"
 
   # About
