@@ -292,7 +292,7 @@ params:
 
   # projects
   projects:
-    title: Project (next? check my github)
+    title: Project
     enable: true
     items:
       - title: Stuff CSS [ongoing]
